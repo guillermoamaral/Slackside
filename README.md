@@ -2,6 +2,8 @@
 
 Slack bot for communicating to Smalltalk via Webside API.
 
+![Slackside Demo](assets/demo.gif)
+
 ## Installation
 
 ```bash
