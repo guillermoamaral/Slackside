@@ -2,6 +2,8 @@
 
 Slack bot for communicating to Smalltalk via Webside API.
 
+Note: This is just a POC aimed at exploring the usage of [Webside](https://github.com/guillermoamaral/Webside) API.
+
 ![Slackside Demo](assets/demo.gif)
 
 ## Installation
